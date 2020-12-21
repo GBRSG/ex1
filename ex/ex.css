@@ -1,0 +1,148 @@
+ header{
+  height: 6em;
+ }
+ #header{
+  padding-top: 24px;
+ }
+ .first-span{
+  border-left: 2px solid black;
+  padding-left: 10px
+  letter-spacing:3px;
+
+ }
+ span{
+  padding-left: 5px;
+  text-decoration: bolder;
+  text-transform: uppercase;
+ }
+ .button{
+  display: inline-block;
+  color: red;
+  text-decoration: none;
+  padding: .5em 2em;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: black;
+  border-radius: 40px;
+  transition: 0.2s;
+  text-transform: uppercase;
+
+} 
+textarea {
+  width: 80%;
+  height: 150px;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  resize: none;
+  margin-top: 10px;
+}
+
+a.button:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+a.button:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+.button-form{
+
+  display: block;
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  color:red;
+  background-color:#B9DEF5;
+  color: black; 
+  border: 2px solid white;
+  border-radius: 40px;
+} 
+.second-button{
+  margin-left: 15em;
+}
+
+.trap{
+  height: 700px;
+}
+.bridge{
+clip-path: polygon(0 0, 100% 0, 100% 99%, 0 51%);
+height: 80%;
+width:100%; 
+}
+.cont{
+  margin-bottom: 100px;
+}
+#blue{
+  margin-top:200px; 
+}
+.svg{
+float: left;
+padding-top: 30px;
+}
+.p{
+  padding-top: 30px;
+  margin-left: 50px;
+
+}
+h3{
+
+  color: red;
+}
+.info{
+  width: 50%;
+}
+.blue-form{
+  width: 100%;
+  height:800px;
+  background: #B9DEF5;
+  clip-path: polygon(0 0, 100% 28%, 100% 99%, 0 71%);
+}
+.last-span{
+  display: block;
+  margin: 0 auto;
+}
+h4{
+  text-transform: uppercase;
+  color: red;
+  padding-bottom: 50px;
+
+}
+input{
+
+  width: 80%;
+  margin-top: 10px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#comment{
+  height: 150px;
+}
+#last-p{
+  display: inline-block;
+  color: white; 
+}
+.footer-use{
+  text-decoration: none;
+  color: white;
+  padding-left: 15px;
+}
+.first-row{
+  margin-bottom: 20px;  
+}
+.last-section{
+  margin-bottom: 40px;
+}
+footer{
+  height: 4em;
+  background: #0F537F ;
+}
+.favicon{
+  padding-left: 15px;
+}
+#footer-div{
+padding-left: 13%;
+}
+#footer{
+  padding-top: 20px;
+}
